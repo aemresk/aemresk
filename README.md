@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Computer Engineer 
 
 <!--
 👋 Computer Engineer 
