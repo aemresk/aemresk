@@ -7,6 +7,6 @@
 
 <h3 align="left">## 🏆 GitHub Trophies </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aemresk&theme=nord&column=7)](https://github.com/aemresk) 
+<p align="left">[![trophy](https://github-profile-trophy.vercel.app/?username=aemresk&theme=nord&column=7)](https://github.com/aemresk) </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aemresk&show_icons=true&locale=en&layout=compact" alt="aemresk" /></p>
