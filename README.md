@@ -5,5 +5,9 @@
 
 <a href="https://stackoverflow.com/users/4582867/aemre" target="blank">Stackoverflow</a>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aemresk&show_icons=true&locale=en&layout=compact" alt="aemresk" /></p>
