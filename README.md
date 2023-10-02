@@ -1,4 +1,4 @@
-<h3 align="left">Software Engineer </h3>
+<h3 align="left">Computer Engineer </h3>
 <img src="https://komarev.com/ghpvc/?username=aemresk&label=Profile%20views&color=0e75b6&style=flat" alt="aemresk" />
 <h3 align="left">## 🏆 GitHub Trophies </h3>
 
