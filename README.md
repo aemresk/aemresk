@@ -7,6 +7,3 @@
 <p align="left"><img align="left" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=4582867&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A"></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aemresk&show_icons=true&locale=en&layout=compact" alt="aemresk" />
-
-</p>
-![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=aemresk&show_icons=true&theme=dracula)
