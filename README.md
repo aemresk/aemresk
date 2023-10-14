@@ -9,3 +9,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aemresk&show_icons=true&locale=en&layout=compact" alt="aemresk" />
 
 </p>
+![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=aemresk&show_icons=true&theme=dracula)
